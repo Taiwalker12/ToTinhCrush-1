@@ -145,7 +145,7 @@ gotoxy(10,10); textcolor(15); printf("Vi vay....Thich cau, to van se giu trong l
 gotoxy(10,12); textcolor(15); printf(" to se chi luon ngam nhin cau tu phia sau!! ");
 Sleep(10000);gotoxy(32,6); textcolor(13); printf("Loading......93%%");
 gotoxy(10,10); textcolor(15); printf(" Yeu don phuong, nhieu luc cung hanh phuc lam vi ");
-gotoxy(10,12); textcolor(15); printf(" to se khong bao gio bi cau tu choi.... ");
+gotoxy(10,12); textcolor(15); printf(" to se  khong bao gio bi cau tu choi.... ");
 Sleep(10000);gotoxy(32,6); textcolor(13); printf("Loading......99%%");
 gotoxy(10,10); textcolor(15); printf("To chi can moi ngay den truong deu duoc nhin thay cau ");
 gotoxy(10,12); textcolor(15); printf(" cung du lam cho to vui roi!!! ");
